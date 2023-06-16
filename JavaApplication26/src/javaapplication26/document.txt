@@ -1,0 +1,1 @@
+This is a sample document for testing the WordCountSystem program. It contains several sentences with different numbers of words. The program should be able to count the total number of words in the document, regardless of how many sentences or words there are.
